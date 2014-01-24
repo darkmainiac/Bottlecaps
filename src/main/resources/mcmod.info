@@ -1,16 +1,17 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "bottlecaps",
+  "name": "bottlecaps",
+  "description": "SMP currency inspired by the Fallout Franchise",
+  "version": "@VERSION@",
+  "credits": "",
+  "logoFile": "",
+  "mcversion": "@MCVERSION@",
   "url": "",
   "updateUrl": "",
-  "authors": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authors": ["darkmainiac"],
+  "parent":"",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": ["mod_MinecraftForge"]
 }
 ]

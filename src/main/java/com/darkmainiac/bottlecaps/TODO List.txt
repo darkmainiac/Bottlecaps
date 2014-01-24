@@ -1,0 +1,12 @@
+BottleCaps TODO list:
+Basically, the mod needs some balancing....
+
+-Assign cap owner on first-time pick-up (and only allow the owner to pick up the caps)
+
+-Create "market" block for selling/buying items that takes a certain percentage of caps as a tax.
+
+-Create a storage block and/or item specifically for the caps. (Remove the possibilities of players trading/giving caps through chests)
+
+-Possibly create a player payment block that looks at certain stats and gives players money based on activity.
+
+-Villagers need to see how valuble caps are in this world.

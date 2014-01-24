@@ -9,7 +9,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.network.NetworkMod;
 import cpw.mods.fml.common.registry.LanguageRegistry;
 
-@NetworkMod(clientSideRequired = false, serverSideRequired = true)
+@NetworkMod(clientSideRequired = true, serverSideRequired = false)
 @Mod(modid = "bottlecaps", name = "Bottlecaps", version = "0.1")
 public class Bottlecaps {
 	static Item bottlecap;
